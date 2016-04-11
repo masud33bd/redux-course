@@ -4,7 +4,7 @@ import { Component } from 'react';
 export default class App extends Component {
   render() {
     return (
-      <div>React simple starter</div>
+      <div>am4 is my user name.</div>
     );
   }
 }
